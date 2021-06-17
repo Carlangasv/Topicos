@@ -1,0 +1,1 @@
+Con la ejecución del csp.py es suficiente para tener las soluciones, en el .ipynb se encuentra el como ejecutar cada punto
